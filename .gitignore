@@ -8,5 +8,3 @@ shap_u.p
 estimators_class_clus_2_KMeans.p
 rel_cols_u_CORRECTED.p
 estimators_u_dsm.p
-spark_with_ages.csv
-ml_all_spark.csv
